@@ -16,6 +16,3 @@ Game ini dibuat dengan **Ren'Py** dan menggunakan pendekatan **Finite State Mach
 1. Buka proyek ini melalui Ren'Py Launcher.
 2. Pilih proyek `simplesimulation`.
 3. Klik **Launch Project**.
-
-## Catatan
-README ini dibuat singkat sebagai dokumentasi awal. FSM akan dikembangkan bertahap sesuai kebutuhan fitur game.
