@@ -12,7 +12,7 @@
 ##
 ## Tanda _() yang mengelilingi string menandai itu dapat di terjemahkan.
 
-define config.name = _("simplesimulation")
+define config.name = _("")
 
 
 ## Meng determinasikan apakah judul yang di berikan di atas di tampilkan di menu
@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## Versi Permainan.
 
-define config.version = "1.0"
+define config.version = ""
 
 
 ## Teks yang ditempatkan pada layar tentang game. Tempatkan teks di antara tanda
