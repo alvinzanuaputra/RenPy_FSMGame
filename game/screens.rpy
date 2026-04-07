@@ -343,6 +343,8 @@ style navigation_button:
 
 style navigation_button_text:
     properties gui.text_properties("navigation_button")
+    bold True
+    size 32
 
 
 ## Layar Menu utama ############################################################

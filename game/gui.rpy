@@ -26,21 +26,21 @@ define config.check_conflicting_properties = True
 ## Warna text pada antarmuka.
 
 ## Warna aksen yang digunakan sepanjang interface sampai pewarnaan text.
-define gui.accent_color = '#0066cc'
+define gui.accent_color = '#c67139'
 
 ## Warna yang di gunakan untuk warna tombol text jika di pilih atau di tekan.
-define gui.idle_color = '#888888'
+define gui.idle_color = '#f3e5dc'
 
 ## Warna kecil yang di gunakan untuk text kecil, yang membutuhkan lebih terang/
 ## lebih gelap untuk mencapai efek yang sama
-define gui.idle_small_color = '#aaaaaa'
+define gui.idle_small_color = '#dcd2cb'
 
 ## Warna yang di gunakan untuk tombol dan bar yang di pilih.
-define gui.hover_color = '#66a3e0'
+define gui.hover_color = '#8b4513'
 
 ## Warna yang digunakan untuk text tombol ketika di pijit tapi tidak di fokus.
 ## Tombol di pilih jika terdapat di layar saat ini atau value preferensi.
-define gui.selected_color = '#ffffff'
+define gui.selected_color = '#fff8dc'
 
 ## Warna yang di gunakan untuk tombol text ketika tidak bisa di pilih.
 define gui.insensitive_color = '#8888887f'
@@ -48,24 +48,24 @@ define gui.insensitive_color = '#8888887f'
 ## Warna yang di gunakan untuk beberapa bagian dari bar yang tidak terisi. Ini
 ## tidak di gunakan secara langsung, Tapi di gunakan ketika me regenerasi file
 ## gambar bar.
-define gui.muted_color = '#002851'
-define gui.hover_muted_color = '#003d7a'
+define gui.muted_color = '#4a3b32'
+define gui.hover_muted_color = '#6b5446'
 
 ## Warna yang di gunakan untuk dialog dan text pilihan menu.
-define gui.text_color = '#ffffff'
-define gui.interface_text_color = '#ffffff'
+define gui.text_color = '#f3e5dc'
+define gui.interface_text_color = '#f3e5dc'
 
 
 ## Font dan ukuran Font ########################################################
 
 ## Font yang digunakan untuk text in-game.
-define gui.text_font = "DejaVuSans.ttf"
+define gui.text_font = "fonts/Lora-VariableFont_wght.ttf"
 
 ## Font yang di gunakan untuk nama karakter.
-define gui.name_text_font = "DejaVuSans.ttf"
+define gui.name_text_font = "fonts/Lora-VariableFont_wght.ttf"
 
 ## Font yang digunakan untuk text di luar permainan.
-define gui.interface_text_font = "DejaVuSans.ttf"
+define gui.interface_text_font = "fonts/Lora-VariableFont_wght.ttf"
 
 ## Ukuran normal dialog text.
 define gui.text_size = 33
@@ -211,9 +211,9 @@ define gui.choice_button_borders = Borders(150, 8, 150, 8)
 define gui.choice_button_text_font = gui.text_font
 define gui.choice_button_text_size = gui.text_size
 define gui.choice_button_text_xalign = 0.5
-define gui.choice_button_text_idle_color = '#888888'
-define gui.choice_button_text_hover_color = "#ffffff"
-define gui.choice_button_text_insensitive_color = '#8888887f'
+define gui.choice_button_text_idle_color = '#dcd2cb'
+define gui.choice_button_text_hover_color = "#c67139"
+define gui.choice_button_text_insensitive_color = '#4a3b327f'
 
 
 ## Tombol Slot File ############################################################
@@ -274,7 +274,7 @@ define gui.page_spacing = 0
 define gui.slot_spacing = 15
 
 ## posisi text menu utama.
-define gui.main_menu_text_xalign = 1.0
+define gui.main_menu_text_xalign = 0.5
 
 
 ## Frame #######################################################################
